@@ -1,0 +1,39 @@
+120;141;Krzywa Turnia
+146;164;Sukiennice
+166;169;Chatka
+170;171;Stodoła
+173;173;Michały
+174;174;Loża
+177;177;Solarium
+178;178;Buła
+180;180;Skałka nad Ogniskiem
+182;183;Gilotyna
+187;188;Jastrzębiec
+191;193;Okienna
+194;194;Lama
+198;205;Sokolik Duży
+206;207;Baba
+210;210;Małpia Ścianka
+212;229;Sokolik Mały
+231;231;Sokola Lalka
+233;233;Sokola Turniczka
+234;234;Bobrowa Turniczka
+238;238;Ptak
+242;246;Tępa
+248;252;Zipserowa Czuba
+254;254;Płetwa
+260;263;Husyckie Skały
+265;265;Trzy Korony
+268;282;Jastrzębia Turnia
+286;286;Brzuchata
+290;290;Rogatka
+295;295;Swarożyc
+296;296;Zapomniana
+300;300;Szara Turnia
+302;302;Skała z Kulą
+304;304;Krzyżna Strażnica
+306;308;Bukowe Skały
+309;312;Sokolec
+314;316;Zamkowe Skały
+321;323;Krzyżna Skała
+

@@ -1,0 +1,3590 @@
+[
+  {
+    "type": "Feature",
+    "id": "way/288654176",
+    "properties": {
+      "height": "20",
+      "name": "Bukowe Ska\u0142y"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8689632, 50.8638646],
+          [15.868888, 50.8639495],
+          [15.8688464, 50.8640894],
+          [15.8688108, 50.8640932],
+          [15.8687336, 50.8640307],
+          [15.8687402, 50.8640091],
+          [15.8687593, 50.8639458],
+          [15.8687556, 50.86381],
+          [15.868659, 50.8636318],
+          [15.8687144, 50.8636321],
+          [15.8687489, 50.8636469],
+          [15.8687851, 50.8637157],
+          [15.8688322, 50.8637367],
+          [15.8688873, 50.8636698],
+          [15.8689424, 50.8636927],
+          [15.8689632, 50.8638646]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Mortal Kombat Wprost",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Wyimaginowana",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "308"
+        }
+      },
+      {
+        "name": "Okapik Zab\u0142otnego",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Pozwany Wsta\u0107!",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "308"
+        }
+      },
+      {
+        "name": "Mortal Kombat",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Bananiara",
+        "difficulty": "VI",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Zimowy Okap",
+        "difficulty": "VI",
+        "properties": {
+          "page": "308"
+        }
+      },
+      {
+        "name": "Filarek Zab\u0142otnego",
+        "difficulty": "V+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Pijani Glazurnicy",
+        "difficulty": "V+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "\u015aroda Dzie\u0144 Loda",
+        "difficulty": "V+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Tylko G\u0142owa Mnie Blokuje",
+        "difficulty": "V+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "I love Rock'n Roll",
+        "difficulty": "V",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Bukowe Zaci\u0119cie",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "306"
+        }
+      },
+      {
+        "name": "Opr\u00f3\u017cnianie Jabola",
+        "difficulty": "IV",
+        "properties": {
+          "page": "306"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654183",
+    "properties": {
+      "height": "26",
+      "name": "Du\u017cy Bli\u017aniak"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8679642, 50.8649586],
+          [15.8679612, 50.8649354],
+          [15.8679711, 50.8649117],
+          [15.8679929, 50.8649061],
+          [15.8680176, 50.8649067],
+          [15.8680196, 50.8649235],
+          [15.8680236, 50.8649567],
+          [15.8679866, 50.8649707],
+          [15.8679642, 50.8649586]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654186",
+    "properties": {
+      "height": "12",
+      "name": "Hipopotam"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8685624, 50.8639415],
+          [15.8685445, 50.8639847],
+          [15.8685136, 50.8640086],
+          [15.8684772, 50.8640059],
+          [15.868473, 50.8639669],
+          [15.8684866, 50.8639298],
+          [15.8685267, 50.8639247],
+          [15.8685624, 50.8639415]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654188",
+    "properties": {
+      "height": "40",
+      "name": "Husyckie Ska\u0142y"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8700346, 50.8666871],
+          [15.8698409, 50.8666856],
+          [15.8697341, 50.8665978],
+          [15.8697962, 50.8665085],
+          [15.8698267, 50.8664894],
+          [15.8698168, 50.8664332],
+          [15.8699594, 50.866352],
+          [15.8700544, 50.8663832],
+          [15.8701038, 50.8664682],
+          [15.8701771, 50.8665332],
+          [15.8703612, 50.8664907],
+          [15.8704106, 50.8665432],
+          [15.8702978, 50.8666354],
+          [15.8700346, 50.8666871]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "R\u00f3\u017cowa Pantera",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "263"
+        }
+      },
+      {
+        "name": "R\u00f3\u017cowa Pantera Light",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "263"
+        }
+      },
+      {
+        "name": "Enigma",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "261"
+        }
+      },
+      {
+        "name": "Kr\u00f3tkie Zaci\u0105tko",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "262"
+        }
+      },
+      {
+        "name": "Sulovskie Klimaty",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "262"
+        }
+      },
+      {
+        "name": "\u015amiertelnik",
+        "difficulty": "VI.1+/2",
+        "properties": {
+          "page": "261"
+        }
+      },
+      {
+        "name": "Piskarskie Klimaty",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "262"
+        }
+      },
+      {
+        "name": "Bia\u0142y Kie\u0142",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "263"
+        }
+      },
+      {
+        "name": "Kr\u00f3tka Ryska",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "262"
+        }
+      },
+      {
+        "name": "Bia\u0142y Filarek",
+        "difficulty": "V+",
+        "properties": {
+          "page": "263"
+        }
+      },
+      {
+        "name": "Zielony Filarek",
+        "difficulty": "IV",
+        "properties": {
+          "page": "263"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654190",
+    "properties": {
+      "height": "45",
+      "name": "Jastrz\u0119bia Turnia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8665127, 50.8647812],
+          [15.8664368, 50.8647488],
+          [15.8663922, 50.8647488],
+          [15.8663052, 50.8647178],
+          [15.8662829, 50.8646953],
+          [15.8663141, 50.8646686],
+          [15.8662784, 50.8646643],
+          [15.8662517, 50.8646094],
+          [15.8662851, 50.8645461],
+          [15.8663922, 50.8645024],
+          [15.8664212, 50.8644954],
+          [15.8665305, 50.8645433],
+          [15.866622, 50.8646503],
+          [15.866622, 50.864677],
+          [15.8665662, 50.8647094],
+          [15.8665907, 50.8647488],
+          [15.8665127, 50.8647812]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Mandela",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "A Muerte!",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "277"
+        }
+      },
+      {
+        "name": "Mandela Light",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "Manifique",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "271"
+        }
+      },
+      {
+        "name": "Maniqure",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "271"
+        }
+      },
+      {
+        "name": "G\u00f3rska Przygoda",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "268"
+        }
+      },
+      {
+        "name": "Mandel Fit",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "A Muerte Light",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "277"
+        }
+      },
+      {
+        "name": "Pomy\u0142ka Sapera Wprost",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "277"
+        }
+      },
+      {
+        "name": "Last But Not Least",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "Mandala \u017bycia",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "271"
+        }
+      },
+      {
+        "name": "Ta\u0144cz\u0105cy z Mr\u00f3wkami",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "280"
+        }
+      },
+      {
+        "name": "Arythmic Perfection",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "Delicatstresen",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "Niedzielna Przechadzka",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "281"
+        }
+      },
+      {
+        "name": "Pomy\u0142ka Sapera",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "277"
+        }
+      },
+      {
+        "name": "Efekt Uboczny",
+        "difficulty": "VI",
+        "properties": {
+          "page": "273"
+        }
+      },
+      {
+        "name": "P\u0142yta Kurczaba",
+        "difficulty": "VI",
+        "properties": {
+          "page": "271"
+        }
+      },
+      {
+        "name": "Kancik Jastrz\u0119biej",
+        "difficulty": "V+",
+        "properties": {
+          "page": "271"
+        }
+      },
+      {
+        "name": "Muppet Show",
+        "difficulty": "V+",
+        "properties": {
+          "page": "280"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654194",
+    "properties": {
+      "height": "35",
+      "name": "Krzy\u017cna"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8681387, 50.8643282],
+          [15.868115, 50.864297],
+          [15.8681467, 50.864272],
+          [15.8681209, 50.8642008],
+          [15.8681447, 50.8641546],
+          [15.8681922, 50.8641321],
+          [15.8681922, 50.8640859],
+          [15.8682318, 50.8640634],
+          [15.8682318, 50.8640221],
+          [15.868301, 50.8640009],
+          [15.8683703, 50.8640121],
+          [15.8684054, 50.8640325],
+          [15.8684455, 50.8640559],
+          [15.8683763, 50.8641371],
+          [15.8683629, 50.8642072],
+          [15.8683565, 50.8642408],
+          [15.8683703, 50.8642907],
+          [15.8682615, 50.8643345],
+          [15.8681387, 50.8643282]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654203",
+    "properties": {
+      "height": "28",
+      "name": "Krzy\u017cna Stra\u017cnica"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.868104, 50.8635356],
+          [15.8682307, 50.8635506],
+          [15.8682326, 50.8636193],
+          [15.8683534, 50.8637055],
+          [15.8684009, 50.8638429],
+          [15.8683316, 50.8639204],
+          [15.8682786, 50.8639337],
+          [15.8682168, 50.8639491],
+          [15.8681752, 50.8639229],
+          [15.8681257, 50.8638742],
+          [15.8680862, 50.8637717],
+          [15.8681356, 50.8636943],
+          [15.868102, 50.8636293],
+          [15.8680486, 50.8636018],
+          [15.8680486, 50.8635718],
+          [15.868104, 50.8635356]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "G\u0142upota Sezonu",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "304"
+        }
+      },
+      {
+        "name": "Nawet Mr\u00f3wki Nie...",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "304"
+        }
+      },
+      {
+        "name": "Kto si\u0119 Boi Ten Nie Stoi",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "304"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654208",
+    "properties": {
+      "height": "12",
+      "name": "Krzy\u017cny Micha\u0142"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8679805, 50.8643963],
+          [15.867937, 50.8643963],
+          [15.8679113, 50.8643676],
+          [15.8679429, 50.8643413],
+          [15.8679964, 50.8643563],
+          [15.8679964, 50.8643776],
+          [15.8679805, 50.8643963]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654211",
+    "properties": {
+      "height": "12",
+      "name": "Ma\u0142y Bli\u017aniak"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8680374, 50.8649448],
+          [15.8680354, 50.8649192],
+          [15.8680533, 50.8649192],
+          [15.8680622, 50.8649386],
+          [15.8680542, 50.8649486],
+          [15.8680374, 50.8649448]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654213",
+    "properties": {
+      "height": "16",
+      "name": "Rogatka"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8669387, 50.8647629],
+          [15.8668762, 50.8647446],
+          [15.8669008, 50.8646967],
+          [15.8669432, 50.8646658],
+          [15.8670123, 50.8646855],
+          [15.8670079, 50.8647291],
+          [15.8669387, 50.8647629]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Need For Speed",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Kancik Rogatki",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Mini-Max",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Bania u Micaja",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Chupacabra",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Rzut Grenadiera",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "290"
+        }
+      },
+      {
+        "name": "Prima Aprilis...",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "290"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654217",
+    "properties": {
+      "height": "20",
+      "name": "Sokolec"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8678815, 50.8647226],
+          [15.8679304, 50.8647078],
+          [15.8679696, 50.8647149],
+          [15.8679673, 50.864754],
+          [15.8680254, 50.8648337],
+          [15.8680075, 50.8648401],
+          [15.8679799, 50.8648412],
+          [15.8679306, 50.8648123],
+          [15.8679403, 50.8648056],
+          [15.8679333, 50.8647844],
+          [15.8679164, 50.8647792],
+          [15.8678871, 50.8647703],
+          [15.8678815, 50.8647226]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Patelnia",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "311"
+        }
+      },
+      {
+        "name": "Kariok\u00f3wka",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "311"
+        }
+      },
+      {
+        "name": "Filarek Sokolca",
+        "difficulty": "VI",
+        "properties": {
+          "page": "310"
+        }
+      },
+      {
+        "name": "Franken Kanten",
+        "difficulty": "VI",
+        "properties": {
+          "page": "311"
+        }
+      },
+      {
+        "name": "Walka z Drzewem",
+        "difficulty": "V-",
+        "properties": {
+          "page": "310"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654224",
+    "properties": {
+      "height": "18",
+      "name": "Swaro\u017cyc"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8669309, 50.8645144],
+          [15.8669184, 50.8644956],
+          [15.8669052, 50.8644757],
+          [15.8669722, 50.8644349],
+          [15.8670435, 50.8644349],
+          [15.8670569, 50.8644518],
+          [15.8669699, 50.8645193],
+          [15.8669309, 50.8645144]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Hrabia Drapula",
+        "difficulty": "VI.6",
+        "properties": {
+          "page": "295"
+        }
+      },
+      {
+        "name": "Jazz",
+        "difficulty": "VI.5+/6",
+        "properties": {
+          "page": "295"
+        }
+      },
+      {
+        "name": "Krwawa Mary",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "295"
+        }
+      },
+      {
+        "name": "Poga\u0144skie Obrz\u0119dy",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "295"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654227",
+    "properties": {
+      "height": "18",
+      "name": "Szara Turnia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8673307, 50.8641011],
+          [15.8673323, 50.8640573],
+          [15.8673986, 50.8640563],
+          [15.8674206, 50.8640802],
+          [15.8673844, 50.864111],
+          [15.867349, 50.8641045],
+          [15.8673307, 50.8641011]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Kantofrenia",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "300"
+        }
+      },
+      {
+        "name": "Mad Max",
+        "difficulty": "VI.2+/3",
+        "properties": {
+          "page": "300"
+        }
+      },
+      {
+        "name": "Easy Max",
+        "difficulty": "V+",
+        "properties": {
+          "page": "300"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654231",
+    "properties": {
+      "height": "7",
+      "name": "S\u0142o\u0144"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8704167, 50.865854],
+          [15.8703801, 50.8658325],
+          [15.8704252, 50.8658058],
+          [15.8704504, 50.8658234],
+          [15.8704167, 50.865854]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654234",
+    "properties": {
+      "height": "8",
+      "name": "Trabancik"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8687505, 50.8641445],
+          [15.8687142, 50.8641432],
+          [15.8686986, 50.8641273],
+          [15.8687062, 50.864113],
+          [15.8687555, 50.8641173],
+          [15.8687505, 50.8641445]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654236",
+    "properties": {
+      "height": "18",
+      "name": "Turnia Panfila"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8705848, 50.8664707],
+          [15.8705294, 50.8664282],
+          [15.8705334, 50.866382],
+          [15.8705809, 50.8663758],
+          [15.8706363, 50.8664557],
+          [15.8705848, 50.8664707]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654238",
+    "properties": {
+      "height": "23",
+      "name": "Zamkowe Ska\u0142y"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8681387, 50.8643282],
+          [15.8682615, 50.8643345],
+          [15.8682695, 50.8644568],
+          [15.8683044, 50.8645291],
+          [15.8683348, 50.8645368],
+          [15.8683289, 50.86456],
+          [15.8683229, 50.864583],
+          [15.8681745, 50.8645918],
+          [15.8681131, 50.8644993],
+          [15.8681211, 50.8643744],
+          [15.8681387, 50.8643282]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Wisz\u0105ce Ogrody",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Waleczne Serce",
+        "difficulty": "VI.2/2+",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Moherowe Berety",
+        "difficulty": "VI.1+/2",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Kocie Ruchy",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "316"
+        }
+      },
+      {
+        "name": "Brytanowe Berety",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Kryszta\u0142owa Pu\u0142apka",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "316"
+        }
+      },
+      {
+        "name": "Rozpocz\u0119cie Sezonu",
+        "difficulty": "VI",
+        "properties": {
+          "page": "316"
+        }
+      },
+      {
+        "name": "Szklana Pu\u0142apka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Chwila Strachu",
+        "difficulty": "V+",
+        "properties": {
+          "page": "316"
+        }
+      },
+      {
+        "name": "Kocie Ruchy z Kantem",
+        "difficulty": "V+",
+        "properties": {
+          "page": "316"
+        }
+      },
+      {
+        "name": "Zaj\u0119cze Serce",
+        "difficulty": "V+",
+        "properties": {
+          "page": "314"
+        }
+      },
+      {
+        "name": "Globus",
+        "difficulty": "V",
+        "properties": {
+          "page": "316"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654245",
+    "properties": {
+      "height": "16",
+      "name": "Zapomniana"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8671512, 50.8637764],
+          [15.8671307, 50.8638032],
+          [15.8670944, 50.8638032],
+          [15.8670613, 50.8637017],
+          [15.8671133, 50.8637186],
+          [15.8671512, 50.8637764]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Mustak Super Power",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "296"
+        }
+      },
+      {
+        "name": "Czeska Droga",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "296"
+        }
+      },
+      {
+        "name": "Mustak Power",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "296"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288654247",
+    "properties": {
+      "height": "15",
+      "name": "Zaro\u015blak"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8680927, 50.8651585],
+          [15.8680717, 50.8651161],
+          [15.8680955, 50.8651011],
+          [15.8681403, 50.8651223],
+          [15.8681697, 50.8651638],
+          [15.8681557, 50.8651735],
+          [15.8680927, 50.8651585]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686599",
+    "properties": {
+      "height": "12",
+      "name": "Baba"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.869421, 50.8699275],
+          [15.8694489, 50.8698913],
+          [15.869504, 50.8699084],
+          [15.8694882, 50.8699275],
+          [15.8694995, 50.8699408],
+          [15.8694761, 50.8699541],
+          [15.869421, 50.8699275]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Multi Lotek",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "207"
+        }
+      },
+      {
+        "name": "Serduszko",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "207"
+        }
+      },
+      {
+        "name": "Problemy Blondyny",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "207"
+        }
+      },
+      {
+        "name": "Toto Lotek",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "207"
+        }
+      },
+      {
+        "name": "Rysa Kowalewskiego",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "206"
+        }
+      },
+      {
+        "name": "Kurtyk\u00f3wka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "207"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686603",
+    "properties": {
+      "height": "15",
+      "name": "Bobrowa Turniczka"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8705594, 50.8693408],
+          [15.8705307, 50.8693113],
+          [15.8705141, 50.8692923],
+          [15.8705926, 50.8692684],
+          [15.8706303, 50.8692999],
+          [15.8705896, 50.869338],
+          [15.8705594, 50.8693408]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Boberek",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "234"
+        }
+      },
+      {
+        "name": "B\u00f3br",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "234"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686605",
+    "properties": {
+      "height": "12",
+      "name": "Gilotyna"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8661987, 50.8707289],
+          [15.8661731, 50.8707329],
+          [15.8661624, 50.8706952],
+          [15.8662115, 50.8706602],
+          [15.8662393, 50.8706777],
+          [15.866235, 50.8707073],
+          [15.8661987, 50.8707289]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Sprawa Dantona",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "182"
+        }
+      },
+      {
+        "name": "Wind\u0105 na Szafot",
+        "difficulty": "VI",
+        "properties": {
+          "page": "182"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686607",
+    "properties": {
+      "height": "65",
+      "name": "Krzywa Turnia"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8657557, 50.8699843],
+          [15.8657301, 50.8700152],
+          [15.8656148, 50.8700233],
+          [15.8656212, 50.8700624],
+          [15.8654782, 50.8700813],
+          [15.8653864, 50.870053],
+          [15.8652967, 50.8699317],
+          [15.8653394, 50.86989],
+          [15.8653698, 50.8698133],
+          [15.86538, 50.8697876],
+          [15.8654696, 50.8697903],
+          [15.8654782, 50.8698172],
+          [15.8656639, 50.8697808],
+          [15.8657642, 50.8697876],
+          [15.8657792, 50.869863],
+          [15.8657557, 50.8699843]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Prawy Skansen",
+        "difficulty": "VI.6/6+",
+        "properties": {
+          "page": "131"
+        }
+      },
+      {
+        "name": "Skansen",
+        "difficulty": "VI.6",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Beton Direct",
+        "difficulty": "VI.5+/6",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Prawy Beton",
+        "difficulty": "VI.5+/6",
+        "properties": {
+          "page": "131"
+        }
+      },
+      {
+        "name": "Bufonada",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "131"
+        }
+      },
+      {
+        "name": "Das Beton Ist Fertig",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Zbyteczna Fanfaronada",
+        "difficulty": "VI.5/5+",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Calibra",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "122"
+        }
+      },
+      {
+        "name": "\u0141aska Heliosa",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Ostre Kukri",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Szalona Lokomotywa",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Totem",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "133"
+        }
+      },
+      {
+        "name": "Falconetti",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "122"
+        }
+      },
+      {
+        "name": "Kukri",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Nos \u017bubra",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "122"
+        }
+      },
+      {
+        "name": "Joker",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "133"
+        }
+      },
+      {
+        "name": "Amber Gold",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Beton Light",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "131"
+        }
+      },
+      {
+        "name": "Prosty Ambro\u017cy",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Taktyka Histeryka",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Ambro\u017cy",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Ksi\u0105\u017c\u0119 Ciemno\u015bci",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "133"
+        }
+      },
+      {
+        "name": "Mescalito",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "137"
+        }
+      },
+      {
+        "name": "Ninja",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Robin Hood",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "136"
+        }
+      },
+      {
+        "name": "Superdiretta",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "142"
+        }
+      },
+      {
+        "name": "Wej\u015bcie Smoka",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "122"
+        }
+      },
+      {
+        "name": "Brzytwa Wprost",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Freerider",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "136"
+        }
+      },
+      {
+        "name": "Wyj\u015bcie Awaryjne",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "ATC",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Bellissima",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "139"
+        }
+      },
+      {
+        "name": "Brzytwa",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Kant Krzywej",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Dziurki Pankiewicza",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "129"
+        }
+      },
+      {
+        "name": "Mi\u0119dzy\u017cubrze",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "122"
+        }
+      },
+      {
+        "name": "O La Va",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Ma\u0142olat\u00f3wka",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Ksi\u0105\u017c\u0119 Sukiennic",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "133"
+        }
+      },
+      {
+        "name": "Kurtyk\u00f3wka",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Ogon \u017bubra",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Risk of Dramatic Falls",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Ma\u0142olat\u00f3wka Light",
+        "difficulty": "VI",
+        "properties": {
+          "page": "125"
+        }
+      },
+      {
+        "name": "Smak \u017bubra",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "121"
+        }
+      },
+      {
+        "name": "Grzbiet \u017bubra",
+        "difficulty": "V+",
+        "properties": {
+          "page": "121"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686610",
+    "properties": {
+      "height": "20",
+      "name": "Ptak"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8695509, 50.8707052],
+          [15.8695293, 50.8707001],
+          [15.8694857, 50.87068],
+          [15.869469, 50.8706601],
+          [15.8694912, 50.8706414],
+          [15.8695279, 50.8706237],
+          [15.8695664, 50.8706859],
+          [15.8695509, 50.8707052]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Co\u015b z Niczego",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "238"
+        }
+      },
+      {
+        "name": "\u0141ysy Perszing",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "238"
+        }
+      },
+      {
+        "name": "Powr\u00f3t do Edenu",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "238"
+        }
+      },
+      {
+        "name": "Kurtyk\u00f3wka",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "238"
+        }
+      },
+      {
+        "name": "Mit Kicaja",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "238"
+        }
+      },
+      {
+        "name": "Kant Brz\u0119tys\u0142awa",
+        "difficulty": "V+",
+        "properties": {
+          "page": "238"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686612",
+    "properties": {
+      "height": "40",
+      "name": "Sokola Lalka"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8698136, 50.8698014],
+          [15.8698379, 50.8698139],
+          [15.8698288, 50.8698577],
+          [15.869705, 50.8699139],
+          [15.8696507, 50.8699025],
+          [15.8696492, 50.8698549],
+          [15.8697911, 50.869811],
+          [15.8698136, 50.8698014]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "X Demon",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "231"
+        }
+      },
+      {
+        "name": "Z\u0142o\u015bliwo\u015b\u0107 Rzeczy...",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "231"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686614",
+    "properties": {
+      "height": "15",
+      "name": "Sokola Turniczka"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8702266, 50.8694391],
+          [15.8703376, 50.8693933],
+          [15.8703642, 50.8694007],
+          [15.8703472, 50.8694459],
+          [15.8703345, 50.8694567],
+          [15.8703149, 50.8694653],
+          [15.8702823, 50.8694658],
+          [15.8702566, 50.8694601],
+          [15.8702266, 50.8694391]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686615",
+    "properties": {
+      "height": "40",
+      "name": "Sokolik Du\u017cy"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8695746, 50.86969],
+          [15.8695164, 50.8696963],
+          [15.8694613, 50.8697158],
+          [15.8694108, 50.8696901],
+          [15.8694138, 50.8696534],
+          [15.8693878, 50.8696416],
+          [15.8693595, 50.8696287],
+          [15.8693844, 50.8695615],
+          [15.8694696, 50.8695177],
+          [15.8695957, 50.8694848],
+          [15.8696088, 50.8695216],
+          [15.8696708, 50.8695108],
+          [15.869707, 50.8695485],
+          [15.8696429, 50.869593],
+          [15.8696024, 50.8696402],
+          [15.8695746, 50.86969]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Wanda Rutkiewicz",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "201"
+        }
+      },
+      {
+        "name": "Rozdro\u017ca Pesymizmu",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "200"
+        }
+      },
+      {
+        "name": "Czysta Forma",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Filar Mgie\u0142 Wprost",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "201"
+        }
+      },
+      {
+        "name": "Kant P\u00f3\u0142nocny Wprost",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Ambro\u017cy Wprost",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "201"
+        }
+      },
+      {
+        "name": "Mo\u017ce B\u0119dzie Afera",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "P\u0142yta Nowaczyka",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Kant P\u00f3\u0142nocny",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Filar Mgie\u0142",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "201"
+        }
+      },
+      {
+        "name": "R (Wariant R)",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "198"
+        }
+      },
+      {
+        "name": "Kant P\u0142yty Nowaczyka",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Nit\u00f3wka Wprost",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "200"
+        }
+      },
+      {
+        "name": "Wariant Ma\u0142olata",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "200"
+        }
+      },
+      {
+        "name": "Nit\u00f3wka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "200"
+        }
+      },
+      {
+        "name": "Rampa Noego",
+        "difficulty": "VI",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Arka Noego",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "205"
+        }
+      },
+      {
+        "name": "Obej\u015bcie Afery",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "205"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686618",
+    "properties": {
+      "height": "60",
+      "name": "Sokolik Ma\u0142y"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8696115, 50.8697291],
+          [15.8696039, 50.8697024],
+          [15.8696537, 50.8696377],
+          [15.8697352, 50.8695519],
+          [15.8697986, 50.8695119],
+          [15.8698409, 50.8695243],
+          [15.8698635, 50.8695519],
+          [15.8699858, 50.8695643],
+          [15.8699979, 50.8696015],
+          [15.8699737, 50.8696158],
+          [15.8699481, 50.8696739],
+          [15.8699813, 50.869691],
+          [15.8699687, 50.8697021],
+          [15.8699341, 50.8697324],
+          [15.8699294, 50.8697348],
+          [15.869854, 50.8697729],
+          [15.8698136, 50.8698014],
+          [15.8697911, 50.869811],
+          [15.8696492, 50.8698549],
+          [15.8695692, 50.8698387],
+          [15.8695465, 50.8698053],
+          [15.8695722, 50.8697663],
+          [15.8696145, 50.8697529],
+          [15.8696115, 50.8697291]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Kakaowe Oczko",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Oczko",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Amfy-Teatr",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "218"
+        }
+      },
+      {
+        "name": "Super \u015aciek",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "\u015acierwokot",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Bia\u0142y \u015aciek",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Esperal",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "216"
+        }
+      },
+      {
+        "name": "Taniec z Gwiazdami",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "219"
+        }
+      },
+      {
+        "name": "Kr\u00f3l Bastionu",
+        "difficulty": "VI.3+/4",
+        "properties": {
+          "page": "228"
+        }
+      },
+      {
+        "name": "Wakacje z Blondynk\u0105",
+        "difficulty": "VI.3+/4",
+        "properties": {
+          "page": "224"
+        }
+      },
+      {
+        "name": "Cholerny \u015awiat",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "219"
+        }
+      },
+      {
+        "name": "Pi\u0107 Trzeba",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "216"
+        }
+      },
+      {
+        "name": "Czarna P\u0142yta",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "219"
+        }
+      },
+      {
+        "name": "Dw\u00f3jka",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "216"
+        }
+      },
+      {
+        "name": "Los Cristales",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Bastion",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "228"
+        }
+      },
+      {
+        "name": "Tr\u00f3jka",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "216"
+        }
+      },
+      {
+        "name": "Jedynka",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "216"
+        }
+      },
+      {
+        "name": "Kurtyk\u00f3wka Wprost",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "219"
+        }
+      },
+      {
+        "name": "Latido del Corazon",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "222"
+        }
+      },
+      {
+        "name": "Spirit of Time",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "228"
+        }
+      },
+      {
+        "name": "Border Line",
+        "difficulty": "VI.1+/2",
+        "properties": {
+          "page": "212"
+        }
+      },
+      {
+        "name": "Ma\u0142olat\u00f3wka",
+        "difficulty": "VI.1+/2",
+        "properties": {
+          "page": "219"
+        }
+      },
+      {
+        "name": "Chirurgia Palca",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "218"
+        }
+      },
+      {
+        "name": "Kurtyk\u00f3wka",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "219"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686620",
+    "properties": {
+      "height": "32",
+      "name": "Sukiennice"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8663459, 50.8700561],
+          [15.8662734, 50.8700399],
+          [15.8662327, 50.8699761],
+          [15.8661958, 50.8698671],
+          [15.8660394, 50.8697527],
+          [15.8661211, 50.8696895],
+          [15.8662433, 50.8697368],
+          [15.8663048, 50.8697947],
+          [15.8663255, 50.8698292],
+          [15.8663987, 50.8698799],
+          [15.8664334, 50.8699227],
+          [15.8663806, 50.8700466],
+          [15.8663459, 50.8700561]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Egzorcysta",
+        "difficulty": "VI.6+/7",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Geronimo",
+        "difficulty": "VI.6+",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Mephisto",
+        "difficulty": "VI.6/6+",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Chimera",
+        "difficulty": "VI.6",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Jelito Diab\u0142a",
+        "difficulty": "VI.5+/6",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "\u0141ysi Su\u0142tani",
+        "difficulty": "VI.5+/6",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Prostowanie Punka",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "India\u0144ska Twarz",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Su\u0142tani Swingu",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Super Punk",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Dzika Rzecz",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Prostowanie \u0141asiczek",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "154"
+        }
+      },
+      {
+        "name": "Prostowanie Znika",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Znikaj\u0105cy Punk",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Super Znik",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Znikaj\u0105cy Punkt",
+        "difficulty": "VI.3+/4",
+        "properties": {
+          "page": "149"
+        }
+      },
+      {
+        "name": "Eliminator",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "Figo Fago",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "154"
+        }
+      },
+      {
+        "name": "Prostowanie Hokeja",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Pytka",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Rock Arena",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "Wariant Mikosa",
+        "difficulty": "VI.3/3+",
+        "properties": {
+          "page": "154"
+        }
+      },
+      {
+        "name": "Hokej",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Jurajska Pu\u0142apka",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "\u0141yse Jajca",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Porozumienie Gda\u0144skie",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "154"
+        }
+      },
+      {
+        "name": "Super Skr\u0119t",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Bat na Wroga",
+        "difficulty": "VI.2+/3",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Bat na Wroga Light",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Nutelka",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Pod Zjazdem",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "154"
+        }
+      },
+      {
+        "name": "Rysa H/2",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Ryska Budzana",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "Su\u0142tani String\u00f3w",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Kant Trzech Nierob\u00f3w",
+        "difficulty": "VI.2/2+",
+        "properties": {
+          "page": "152"
+        }
+      },
+      {
+        "name": "Filar Brz\u00f3zki",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "Super Hajda Wuju",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "152"
+        }
+      },
+      {
+        "name": "1001 Drobiazg\u00f3w",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "Ma\u015blane Palce",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Ostatni Strza\u0142",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "Filarek Nowaczyka",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "Konik",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "Ryski Nowaczyka",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "146"
+        }
+      },
+      {
+        "name": "\u015acianka Lwowa",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "\u015arednia Arytmetyczna",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "160"
+        }
+      },
+      {
+        "name": "Trawers Biedermana",
+        "difficulty": "VI+/1",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Trzy Okapy",
+        "difficulty": "VI+/1",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Hajda Wuju",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "152"
+        }
+      },
+      {
+        "name": "Kant Wuja",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "152"
+        }
+      },
+      {
+        "name": "Nitka P\u0142yt\u0105",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Parszywa Rynna",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "153"
+        }
+      },
+      {
+        "name": "Prostowanie Rob\u00f3t",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "162"
+        }
+      },
+      {
+        "name": "Rysa Zegarowa",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Szare Zaci\u0119cie Wprost",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "G\u0142adkie Zaci\u0119cie",
+        "difficulty": "VI",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "Nitka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "Prze\u0142yk",
+        "difficulty": "VI",
+        "properties": {
+          "page": "159"
+        }
+      },
+      {
+        "name": "R\u00f3j Hektora",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "160"
+        }
+      },
+      {
+        "name": "Szare Zaci\u0119cie",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "157"
+        }
+      },
+      {
+        "name": "Ryska Tygryska",
+        "difficulty": "V+",
+        "properties": {
+          "page": "161"
+        }
+      },
+      {
+        "name": "\u015arednia Wa\u017cona",
+        "difficulty": "V+",
+        "properties": {
+          "page": "160"
+        }
+      },
+      {
+        "name": "Prawy Komin",
+        "difficulty": "V",
+        "properties": {
+          "page": "149"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686622",
+    "properties": {
+      "height": "25",
+      "name": "T\u0119pa"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.869635, 50.8707119],
+          [15.8696549, 50.870712],
+          [15.8697192, 50.8707815],
+          [15.869681, 50.8707843],
+          [15.8697197, 50.8709093],
+          [15.8697412, 50.8709515],
+          [15.8697378, 50.8709813],
+          [15.8697213, 50.8710074],
+          [15.869676, 50.8709946],
+          [15.8696469, 50.8708885],
+          [15.8696471, 50.8708509],
+          [15.8696488, 50.8707976],
+          [15.8696219, 50.8707743],
+          [15.8696096, 50.8707272],
+          [15.869635, 50.8707119]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "No Future",
+        "difficulty": "VI.6",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Blitzkrieg Hard",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Blitzkrieg Light",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Speed Fire",
+        "difficulty": "VI.5",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "\u015awitlisty Szlak",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Kletter Killer",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Lady Ki\u0142a",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Canilla",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Commando",
+        "difficulty": "VI.4/4+",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Kwiaty Extension",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Primabalerina",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Witajcie w Ma\u0142piarni",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Delta Force",
+        "difficulty": "VI.3+/4",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Kociokwik",
+        "difficulty": "VI.3+/4",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Prawy do Lewego",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Commando Light",
+        "difficulty": "VI.3/3+",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Gula Hula",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Prima Light",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Super Ma\u0142e Obci\u0105ganie",
+        "difficulty": "VI.2+/3",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Zulu Gula",
+        "difficulty": "VI.2+/3",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Ma\u0142e Obci\u0105ganie",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Kwiaty w Ogrodzie",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Margaryna Wprost",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "\u015amietanka",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "244"
+        }
+      },
+      {
+        "name": "Margaryna",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Droga Brysia",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Lataj\u0105cy Kufer",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "246"
+        }
+      },
+      {
+        "name": "Mase\u0142ko",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Szanuj Ziele\u0144!",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "242"
+        }
+      },
+      {
+        "name": "Bajkowa Wycieczka",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "246"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/288686625",
+    "properties": {
+      "height": "35",
+      "name": "Zipserowa Czuba"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8688802, 50.8707638],
+          [15.8688092, 50.8707683],
+          [15.8688276, 50.8707172],
+          [15.8688678, 50.8706624],
+          [15.868906, 50.8706549],
+          [15.8689071, 50.8706283],
+          [15.8689325, 50.8706124],
+          [15.868942, 50.8705884],
+          [15.8689234, 50.8705764],
+          [15.8688973, 50.870586],
+          [15.8688747, 50.8705367],
+          [15.8689126, 50.8705003],
+          [15.868941, 50.870474],
+          [15.8689485, 50.8704952],
+          [15.8689864, 50.8705029],
+          [15.8690344, 50.8705792],
+          [15.8690685, 50.8705881],
+          [15.8690945, 50.8706499],
+          [15.8690842, 50.8707115],
+          [15.8689959, 50.8707536],
+          [15.8688802, 50.8707638]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Niemy Krzyk Wprost",
+        "difficulty": "VI.4+/5",
+        "properties": {
+          "page": "251"
+        }
+      },
+      {
+        "name": "Niemy Krzyk",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "251"
+        }
+      },
+      {
+        "name": "Kurt Wallander",
+        "difficulty": "VI.3+",
+        "properties": {
+          "page": "251"
+        }
+      },
+      {
+        "name": "Prawy Zab\u00f3jca Szczotek",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Korrida",
+        "difficulty": "VI.1+/2",
+        "properties": {
+          "page": "250"
+        }
+      },
+      {
+        "name": "Czarcie Wrota",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "We\u017a Byka za Rogi",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "250"
+        }
+      },
+      {
+        "name": "Zab\u00f3jca Szczotek",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Lewy Zab\u00f3jca Szczotek",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Droga Panfila Wprost",
+        "difficulty": "VI+/1",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Filarek za Blokiem",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Superdozentissima",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Dozentissima",
+        "difficulty": "VI",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Hiperdozentissima",
+        "difficulty": "VI",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Direta WKW",
+        "difficulty": "V+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Diretka WKW",
+        "difficulty": "V+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Direttissima",
+        "difficulty": "V+",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "\u0141atwe Ladacznice",
+        "difficulty": "V+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Emu",
+        "difficulty": "V",
+        "properties": {
+          "page": "248"
+        }
+      },
+      {
+        "name": "Ku Chwale Kursant\u00f3w",
+        "difficulty": "V",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Trzech Muszkieter\u00f3w",
+        "difficulty": "V",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Dozent\u00f3wka",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Gardening",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "252"
+        }
+      },
+      {
+        "name": "Kominek za Blokiem",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "252"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/328249424",
+    "properties": {
+      "name": "Chatka"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8664276, 50.8696092],
+          [15.8664375, 50.8695912],
+          [15.866481, 50.8695582],
+          [15.8665331, 50.8696162],
+          [15.8665393, 50.8696813],
+          [15.866507, 50.8697095],
+          [15.8664524, 50.8696852],
+          [15.8664276, 50.8696092]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Slimline",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Zaj\u0105c\u00f3wkaa",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Bardzo Trudne Pocz\u0105tki",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Cudowne Ocalenie",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Taniec Tygryska",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Prawe Prostowanie",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "\u015arodek Chatki Wprost",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Trudne Pocz\u0105tki",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Chatka Puchatka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Lewe Prostowanie",
+        "difficulty": "VI",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "\u015arodek Chatki",
+        "difficulty": "VI",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Zemsta K\u0142apouchego",
+        "difficulty": "VI",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Zygzak Lwowa",
+        "difficulty": "VI",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Powr\u00f3t Prosiaczka",
+        "difficulty": "V+",
+        "properties": {
+          "page": "169"
+        }
+      },
+      {
+        "name": "Super Kancik",
+        "difficulty": "V+",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Kancik Chatki",
+        "difficulty": "V-",
+        "properties": {
+          "page": "167"
+        }
+      },
+      {
+        "name": "Kancik Chatki Light",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "167"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/328249425",
+    "properties": {
+      "name": "Micha\u0142y"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8665555, 50.86986],
+          [15.8666462, 50.869882],
+          [15.8666921, 50.8699439],
+          [15.8666561, 50.8700278],
+          [15.8665903, 50.8700426],
+          [15.8665182, 50.870016],
+          [15.8664884, 50.8699541],
+          [15.8665555, 50.86986]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Facebook",
+        "difficulty": "VI.1+",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "Micha\u0142 Ledwo Dycha\u0142",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "\u015acianka Nowaczyka",
+        "difficulty": "VI",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "Z Kamyczka... Wprost",
+        "difficulty": "V+",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "Z Kamyczka na Kamyczek",
+        "difficulty": "V-",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "M\u0142ody Murarz",
+        "difficulty": "IV",
+        "properties": {
+          "page": "173"
+        }
+      },
+      {
+        "name": "Schodki do Nieba",
+        "difficulty": "IV",
+        "properties": {
+          "page": "173"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476737494",
+    "properties": {
+      "name": "Stodo\u0142a"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8665237, 50.8697146],
+          [15.8665559, 50.8696935],
+          [15.8666156, 50.8696816],
+          [15.8666336, 50.8696947],
+          [15.8666109, 50.8697311],
+          [15.8665574, 50.869748],
+          [15.8665398, 50.8697468],
+          [15.8665237, 50.8697146]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "\u015acianka Ma\u0142olata",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "171"
+        }
+      },
+      {
+        "name": "Dziurki",
+        "difficulty": "VI",
+        "properties": {
+          "page": "171"
+        }
+      },
+      {
+        "name": "Filarek Stodo\u0142y P. War.",
+        "difficulty": "V+",
+        "properties": {
+          "page": "171"
+        }
+      },
+      {
+        "name": "Rodeo",
+        "difficulty": "V+",
+        "properties": {
+          "page": "171"
+        }
+      },
+      {
+        "name": "Trawersik",
+        "difficulty": "V+",
+        "properties": {
+          "page": "171"
+        }
+      },
+      {
+        "name": "Filarek Stodo\u0142y",
+        "difficulty": "V",
+        "properties": {
+          "page": "171"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476739265",
+    "properties": {
+      "name": "Jastrz\u0119biec"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8675508, 50.8696903],
+          [15.8675207, 50.869678],
+          [15.8675066, 50.869609],
+          [15.8675079, 50.8695565],
+          [15.8675495, 50.8695134],
+          [15.8676112, 50.8695193],
+          [15.8676072, 50.8695362],
+          [15.8676112, 50.8695684],
+          [15.8676367, 50.8695709],
+          [15.8676513, 50.8695325],
+          [15.8676702, 50.8695354],
+          [15.8676957, 50.8695718],
+          [15.8676642, 50.8696289],
+          [15.8676206, 50.8696784],
+          [15.8675951, 50.8696873],
+          [15.8675508, 50.8696903]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Janosik z Wojcieszowa",
+        "difficulty": "VI.2+",
+        "properties": {
+          "page": "187"
+        }
+      },
+      {
+        "name": "Prosnotwanie Janosika",
+        "difficulty": "VI.2",
+        "properties": {
+          "page": "187"
+        }
+      },
+      {
+        "name": "Sztuka Kompromisu",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "188"
+        }
+      },
+      {
+        "name": "Mocna Sz\u00f3stka",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "188"
+        }
+      },
+      {
+        "name": "Wrze\u015bniowe Popo\u0142udnie",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "187"
+        }
+      },
+      {
+        "name": "Droga Osady",
+        "difficulty": "VI",
+        "properties": {
+          "page": "188"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476739705",
+    "properties": {
+      "name": "Okienna"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8680819, 50.8696346],
+          [15.8680792, 50.8696854],
+          [15.8680497, 50.8697345],
+          [15.867988, 50.8697328],
+          [15.8679478, 50.8697006],
+          [15.8679673, 50.8696354],
+          [15.8679988, 50.8696042],
+          [15.8680551, 50.8696126],
+          [15.8680819, 50.8696346]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Virtuti Militari",
+        "difficulty": "VI.3",
+        "properties": {
+          "page": "191"
+        }
+      },
+      {
+        "name": "Kant Dupy",
+        "difficulty": "V+",
+        "properties": {
+          "page": "193"
+        }
+      },
+      {
+        "name": "Zielona P\u0142yta",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "193"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476741283",
+    "properties": {
+      "name": "Lo\u017ca"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8662949, 50.870107],
+          [15.8663204, 50.8701506],
+          [15.8663107, 50.8701715],
+          [15.8662993, 50.8701749],
+          [15.8662882, 50.870173],
+          [15.8662701, 50.870166],
+          [15.8662601, 50.8701525],
+          [15.8662547, 50.8701189],
+          [15.8662661, 50.8701066],
+          [15.8662949, 50.870107]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Kancik na Leszcza",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "174"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476744599",
+    "properties": {
+      "name": "Solarium"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8664881, 50.8701368],
+          [15.8665068, 50.8701436],
+          [15.8665068, 50.8701741],
+          [15.8665109, 50.8702079],
+          [15.8665102, 50.8702363],
+          [15.8665068, 50.8702655],
+          [15.8664854, 50.8702858],
+          [15.8664585, 50.8702849],
+          [15.8664451, 50.8702452],
+          [15.8664425, 50.8702113],
+          [15.8664505, 50.8701673],
+          [15.8664666, 50.8701351],
+          [15.8664881, 50.8701368]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Pantera",
+        "difficulty": "VI.5+",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Reproduktor",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Fugazi",
+        "difficulty": "VI.2+/3",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Kolory dla Koni",
+        "difficulty": "VI.1",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Helikopter w Ogniu",
+        "difficulty": "VI+",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Zachodni Filarek",
+        "difficulty": "VI-",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "S\u0142oneczny Kancik",
+        "difficulty": "V",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Nieznane Zaci\u0119cie",
+        "difficulty": "IV+",
+        "properties": {
+          "page": "177"
+        }
+      },
+      {
+        "name": "Wiara Czyni Cuda",
+        "difficulty": "IV",
+        "properties": {
+          "page": "177"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/476745953",
+    "properties": {
+      "name": "Ska\u0142a nad Ogniskiem"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8664894, 50.8703603],
+          [15.8665095, 50.8703713],
+          [15.8665041, 50.8704009],
+          [15.8664934, 50.8704161],
+          [15.8664706, 50.8704246],
+          [15.8664438, 50.8704212],
+          [15.8664438, 50.8704009],
+          [15.8664572, 50.8703687],
+          [15.8664894, 50.8703603]
+        ]
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "id": "way/476748061",
+    "properties": {
+      "name": "Lama"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.8689936, 50.8686925],
+          [15.8688997, 50.8686688],
+          [15.8688676, 50.8686316],
+          [15.8687978, 50.8685774],
+          [15.8688139, 50.8685452],
+          [15.8688461, 50.8685334],
+          [15.8689346, 50.8685706],
+          [15.8689909, 50.8686011],
+          [15.8690312, 50.86864],
+          [15.8690339, 50.8686705],
+          [15.8690258, 50.8686857],
+          [15.8689936, 50.8686925]
+        ]
+      ]
+    },
+    "routes": [
+      {
+        "name": "Kant Non Stop",
+        "difficulty": "VI.4+",
+        "properties": {
+          "page": "194"
+        }
+      },
+      {
+        "name": "Kant Stop",
+        "difficulty": "VI.4",
+        "properties": {
+          "page": "194"
+        }
+      }
+    ]
+  },
+  {
+    "type": "Feature",
+    "id": "way/679900845",
+    "properties": {
+      "height": "10",
+      "name": "Samotnik"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [15.9012349, 50.8558389],
+          [15.9012301, 50.8557459],
+          [15.9013941, 50.8557234],
+          [15.9014559, 50.8557579],
+          [15.9014393, 50.8558194],
+          [15.9013537, 50.8558689],
+          [15.9012349, 50.8558389]
+        ]
+      ]
+    }
+  }
+]

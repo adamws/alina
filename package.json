@@ -1,0 +1,27 @@
+{
+  "name": "topo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore --fix src",
+    "format": "prettier . --write"
+  },
+  "dependencies": {
+    "@vueform/slider": "^2.1.5",
+    "leaflet": "^1.9.1",
+    "pinia": "^2.0.34",
+    "vue": "^3.2.37"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "eslint": "^8.26.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.6.0",
+    "prettier": "2.7.1",
+    "vite": "^3.1.0"
+  }
+}

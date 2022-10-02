@@ -1,0 +1,380 @@
+Egzorcysta;VI.6+/7;149;Sukiennice
+Geronimo;VI.6+;153;Sukiennice
+Mephisto;VI.6/6+;149;Sukiennice
+Prawy Skansen;VI.6/6+;131;Krzywa Turnia
+Chimera;VI.6;153;Sukiennice
+Hrabia Drapula;VI.6;295;Swarożyc
+No Future;VI.6;244;Tępa
+Skansen;VI.6;125;Krzywa Turnia
+Beton Direct;VI.5+/6;129;Krzywa Turnia
+Jazz;VI.5+/6;295;Swarożyc
+Jelito Diabła;VI.5+/6;149;Sukiennice
+Łysi Sułtani;VI.5+/6;161;Sukiennice
+Prawy Beton;VI.5+/6;131;Krzywa Turnia
+Antidotum;VI.5+;180;Skałka nad Ogniskiem
+Blitzkrieg Hard;VI.5+;244;Tępa
+Bufonada;VI.5+;131;Krzywa Turnia
+Czas Apokalipsy;VI.5+;210;Małpia Ścianka
+Das Beton Ist Fertig;VI.5+;129;Krzywa Turnia
+Kakaowe Oczko;VI.5+;222;Sokolik Mały
+Krwawa Mary;VI.5+;295;Swarożyc
+Need For Speed;VI.5+;290;Rogatka
+Pantera;VI.5+;177;Solarium
+Prostowanie Punka;VI.5+;149;Sukiennice
+Zbyteczna Fanfaronada;VI.5/5+;125;Krzywa Turnia
+Blitzkrieg Light;VI.5;244;Tępa
+Calibra;VI.5;122;Krzywa Turnia
+Indiańska Twarz;VI.5;153;Sukiennice
+Kancik Rogatki;VI.5;290;Rogatka
+Łaska Heliosa;VI.5;121;Krzywa Turnia
+Oczko;VI.5;222;Sokolik Mały
+Ostre Kukri;VI.5;129;Krzywa Turnia
+Speed Fire;VI.5;244;Tępa
+Szalona Lokomotywa;VI.5;125;Krzywa Turnia
+Totem;VI.5;133;Krzywa Turnia
+Falconetti;VI.4+/5;122;Krzywa Turnia
+Mandela;VI.4+/5;273;Jastrzębia Turnia
+Niemy Krzyk Wprost;VI.4+/5;251;Zipserowa Czuba
+Sułtani Swingu;VI.4+/5;162;Sukiennice
+Super Punk;VI.4+/5;149;Sukiennice
+Świtlisty Szlak;VI.4+/5;244;Tępa
+Amfy-Teatr;VI.4+;218;Sokolik Mały
+Dzika Rzecz;VI.4+;149;Sukiennice
+Kant Non Stop;VI.4+;194;Lama
+Kletter Killer;VI.4+;242;Tępa
+Lady Kiła;VI.4+;244;Tępa
+Prostowanie Łasiczek;VI.4+;154;Sukiennice
+Prostowanie Znika;VI.4+;149;Sukiennice
+Reproduktor;VI.4+;177;Solarium
+Różowa Pantera;VI.4+;263;Husyckie Skały
+Wanda Rutkiewicz;VI.4+;201;Sokolik Duży
+Znikający Punk;VI.4+;149;Sukiennice
+A Muerte!;VI.4/4+;277;Jastrzębia Turnia
+Canilla;VI.4/4+;242;Tępa
+Commando;VI.4/4+;242;Tępa
+Kantofrenia;VI.4/4+;300;Szara Turnia
+Kukri;VI.4/4+;129;Krzywa Turnia
+Mini-Max;VI.4/4+;290;Rogatka
+Nos Żubra;VI.4/4+;122;Krzywa Turnia
+Super Ściek;VI.4/4+;222;Sokolik Mały
+Ścierwokot;VI.4/4+;222;Sokolik Mały
+Biały Ściek;VI.4;222;Sokolik Mały
+Esperal;VI.4;216;Sokolik Mały
+Joker;VI.4;133;Krzywa Turnia
+Kant Stop;VI.4;194;Lama
+Kwiaty Extension;VI.4;242;Tępa
+Magic Mushrooms;VI.4;210;Małpia Ścianka
+Mandela Light;VI.4;273;Jastrzębia Turnia
+Manifique;VI.4;271;Jastrzębia Turnia
+Niemy Krzyk;VI.4;251;Zipserowa Czuba
+Primabalerina;VI.4;244;Tępa
+Super Znik;VI.4;149;Sukiennice
+Taniec z Gwiazdami;VI.4;219;Sokolik Mały
+Terminator;VI.4;210;Małpia Ścianka
+Witajcie w Małpiarni;VI.4;242;Tępa
+Delta Force;VI.3+/4;244;Tępa
+Kociokwik;VI.3+/4;242;Tępa
+Król Bastionu;VI.3+/4;228;Sokolik Mały
+Wakacje z Blondynką;VI.3+/4;224;Sokolik Mały
+Znikający Punkt;VI.3+/4;149;Sukiennice
+Amber Gold;VI.3+;121;Krzywa Turnia
+Beton Light;VI.3+;131;Krzywa Turnia
+Cholerny Świat;VI.3+;219;Sokolik Mały
+Eliminator;VI.3+;146;Sukiennice
+Figo Fago;VI.3+;154;Sukiennice
+Kurt Wallander;VI.3+;251;Zipserowa Czuba
+Maniqure;VI.3+;271;Jastrzębia Turnia
+Patelnia;VI.3+;311;Sokolec
+Pić Trzeba;VI.3+;216;Sokolik Mały
+Po Stronie Cienia;VI.3+;210;Małpia Ścianka
+Pogańskie Obrzędy;VI.3+;295;Swarożyc
+Prawy do Lewego;VI.3+;244;Tępa
+Prostowanie Hokeja;VI.3+;153;Sukiennice
+Prosty Ambroży;VI.3+;129;Krzywa Turnia
+Pytka;VI.3+;161;Sukiennice
+Rock Arena;VI.3+;146;Sukiennice
+Rozdroża Pesymizmu;VI.3+;200;Sokolik Duży
+Taktyka Histeryka;VI.3+;129;Krzywa Turnia
+Commando Light;VI.3/3+;242;Tępa
+Wariant Mikosa;VI.3/3+;154;Sukiennice
+Ambroży;VI.3;129;Krzywa Turnia
+Bania u Micaja;VI.3;290;Rogatka
+Chupacabra;VI.3;290;Rogatka
+Coś z Niczego;VI.3;238;Ptak
+Czarna Płyta;VI.3;219;Sokolik Mały
+Delikatessen;VI.3;271;Jastębia Turnia
+Dwójka;VI.3;216;Sokolik Mały
+Głupota Sezonu;VI.3;304;Krzyżna Strażnica
+Górska Przygoda;VI.3;268;Jastrzębia Turnia
+Gula Hula;VI.3;242;Tępa
+Hokej;VI.3;153;Sukiennice
+Jurajska Pułapka;VI.3;162;Sukiennice
+Książę Ciemności;VI.3;133;Krzywa Turnia
+Los Cristales;VI.3;222;Sokolik Mały
+Łyse Jajca;VI.3;162;Sukiennice
+Łysy Perszing;VI.3;238;Ptak
+Mandel Fit;VI.3;273;Jastrzębia Turnia
+Mescalito;VI.3;137;Krzywa Turnia
+Multi Lotek;VI.3;207;Baba
+Ninja;VI.3;125;Krzywa Turnia
+Porozumienie Gdańskie;VI.3;154;Sukiennice
+Prima Light;VI.3;244;Tępa
+Robin Hood;VI.3;136;Krzywa Turnia
+Różowa Pantera Light;VI.3;263;Husyckie Skały
+Slimline;VI.3;169;Chatka
+Super Skręt;VI.3;161;Sukiennice
+Superdiretta;VI.3;142;Krzywa Turnia
+Virtuti Militari;VI.3;191;Okienna
+Wejście Smoka;VI.3;122;Krzywa Turnia
+Wiszące Ogrody;VI.3;314;Zamkowe Skały
+X Demon;VI.3;231;Sokola Lalka
+Złośliwość Rzeczy...;VI.3;231;Sokola Lalka
+Bat na Wroga;VI.2+/3;153;Sukiennice
+Fugazi;VI.2+/3;177;Solarium
+Mad Max;VI.2+/3;300;Szara Turnia
+Super Małe Obciąganie;VI.2+/3;244;Tępa
+Zulu Gula;VI.2+/3;242;Tępa
+A Muerte Light;VI.2+;277;Jastrzębia Turnia
+Bastion;VI.2+;228;Sokolik Mały
+Bat na Wroga Light;VI.2+;153;Sukiennice
+Brzytwa Wprost;VI.2+;129;Krzywa Turnia
+Czysta Forma;VI.2+;205;Sokolik Duży
+Enigma;VI.2+;261;Husyckie Skały
+Filar Mgieł Wprost;VI.2+;201;Sokolik Duży
+Freerider;VI.2+;136;Krzywa Turnia
+Janosik z Wojcieszowa;VI.2+;187;Jastrzębiec
+Kant Północny Wprost;VI.2+;205;Sokolik Duży
+Kolory Wiosny;VI.2+;180;Skałka nad Ogniskiem
+Małe Obciąganie;VI.2+;244;Tępa
+Mały Kombinator;VI.2+;210;Małpia Ścianka
+Mustak Super Power;VI.2+;296;Zapomniana
+Nutelka;VI.2+;161;Sukiennice
+Pod Zjazdem;VI.2+;154;Sukiennice
+Pomyłka Sapera Wprost;VI.2+;277;Jastrzębia Turnia
+Przez Brzuszki;VI.2+;286;Brzuchata
+Rysa H/2;VI.2+;161;Sukiennice
+Ryska Budzana;VI.2+;146;Sukiennice
+Rzut Grenadiera;VI.2+;290;Rogatka
+Serduszko;VI.2+;207;Baba
+Sułtani Stringów;VI.2+;162;Sukiennice
+Trójka;VI.2+;216;Sokolik Mały
+Wyjście Awaryjne;VI.2+;121;Krzywa Turnia
+Kant Trzech Nierobów;VI.2/2+;152;Sukiennice
+Waleczne Serce;VI.2/2+;314;Zamkowe Skały
+Ambroży Wprost;VI.2;201;Sokolik Duży
+ATC;VI.2;125;Krzywa Turnia
+Bellissima;VI.2;139;Krzywa Turnia
+Brzytwa;VI.2;129;Krzywa Turnia
+Czeska Droga;VI.2;296;Zapomniana
+Filar Brzózki;VI.2;146;Sukiennice
+Jedynka;VI.2;216;Sokolik Mały
+Kant Krzywej;VI.2;125;Krzywa Turnia
+Kariokówka;VI.2;311;Sokolec
+Krótkie Zaciątko;VI.2;262;Husyckie Skały
+Kurtykówka Wprost;VI.2;219;Sokolik Mały
+Kwiaty w Ogrodzie;VI.2;242;Tępa
+Last But Not Least;VI.2;273;Jastrzębia Turnia
+Latido del Corazon;VI.2;222;Sokolik Mały
+Łamigłówka;VI.2;286;Brzuchata
+Mandala Życia;VI.2;271;Jastrzębia Turnia
+Margaryna Wprost;VI.2;242;Tępa
+Może Będzie Afera;VI.2;205;Sokolik Duży
+Mustak Power;VI.2;296;Zapomniana
+Nachy w Drachy;VI.2;210;Małpia Ścianka
+Płyta Nowaczyka;VI.2;205;Sokolik Duży
+Polsko-Czeski Rajbung;VI.2;302;Skała z Kulą
+Powrót do Edenu;VI.2;238;Ptak
+Prawy Zabójca Szczotek;VI.2;248;Zipserowa Czuba
+Prosnotwanie Janosika;VI.2;187;Jastrzębiec
+Spirit of Time;VI.2;228;Sokolik Mały
+Sulovskie Klimaty;VI.2;262;Husyckie Skały
+Super Hajda Wuju;VI.2;152;Sukiennice
+Śmietanka;VI.2;244;Tępa
+Tańczący z Mrówkami;VI.2;280;Jastrzębia Turnia
+Zającówkaa;VI.2;169;Chatka
+Border Line;VI.1+/2;212;Sokolik Mały
+Korrida;VI.1+/2;250;Zipserowa Czuba
+Małolatówka;VI.1+/2;219;Sokolik Mały
+Moherowe Berety;VI.1+/2;314;Zamkowe Skały
+Śmiertelnik;VI.1+/2;261;Husyckie Skały
+1001 Drobiazgów;VI.1+;157;Sukiennice
+Arythmic Perfection;VI.1+;273;Jastrzębia Turnia
+Bardzo Trudne Początki;VI.1+;167;Chatka
+Boberek;VI.1+;234;Bobrowa Turniczka
+Bóbr;VI.1+;234;Bobrowa Turniczka
+Chirurgia Palca;VI.1+;218;Sokolik Mały
+Cudowne Ocalenie;VI.1+;167;Chatka
+Czarcie Wrota;VI.1+;248;Zipserowa Czuba
+Cząstki Elementarne;VI.1+;254;Płetwa
+Dziurki Pankiewicza;VI.1+;129;Krzywa Turnia
+Facebook;VI.1+;173;Michały
+Kant Północny;VI.1+;205;Sokolik Duży
+Kocie Ruchy;VI.1+;316;Zamkowe Skały
+Kurtykówka;VI.1+;219;Sokolik Mały
+Kurtykówka;VI.1+;238;Ptak
+Małpia Wprost;VI.1+;210;Małpia Ścianka
+Margaryna;VI.1+;242;Tępa
+Maślane Palce;VI.1+;153;Sukiennice
+Międzyżubrze;VI.1+;122;Krzywa Turnia
+Mortal Kombat Wprost;VI.1+;306;Bukowe Skały
+O La Va;VI.1+;121;Krzywa Turnia
+Ostatni Strzał;VI.1+;146;Sukiennice
+Taniec Tygryska;VI.1+;169;Chatka
+Weź Byka za Rogi;VI.1+;250;Zipserowa Czuba
+Wyimaginowana;VI.1+;308;Bukowe Skały
+Zabójca Szczotek;VI.1;248;Zipserowa Czuba
+Delicatstresen;VI.1;273;Jastrzębia Turnia
+Droga Brysia;VI.1;242;Tępa
+Filar Mgieł;VI.1;201;Sokolik Duży
+Filarek Nowaczyka;VI.1;157;Sukiennice
+Kolory dla Koni;VI.1;177;Solarium
+Konik;VI.1;157;Sukiennice
+Latający Kufer;VI.1;246;Tępa
+Lewy Zabójca Szczotek;VI.1;248;Zipserowa Czuba
+Małolatówka;VI.1;125;Krzywa Turnia
+Małpia Ścianka;VI.1;210;Małpia Ścianka
+Masełko;VI.1;242;Tępa
+Mit Kicaja;VI.1;238;Ptak
+Nawet Mrówki Nie...;VI.1;304;Krzyżna Strażnica
+Nibyrysa;VI.1;254;Płetwa
+Niedzielna Przechadzka;VI.1;281;Jastrzębia Turnia
+Okapik Zabłotnego;VI.1;306;Bukowe Skały
+Piskarskie Klimaty;VI.1;262;Husyckie Skały
+Pomyłka Sapera;VI.1;277;Jastrzębia Turnia
+Pozwany Wstać!;VI.1;308;Bukowe Skały
+Prima Aprilis...;VI.1;290;Rogatka
+Problemy Blondyny;VI.1;207;Baba
+R (Wariant R);VI.1;198;Sokolik Duży
+Ryski Nowaczyka;VI.1;146;Sukiennice
+Szanuj Zieleń!;VI.1;242;Tępa
+Sztuka Kompromisu;VI.1;188;Jastrzębiec
+Ścianka Lwowa;VI.1;153;Sukiennice
+Ścianka Małolata;VI.1;171;Stodoła
+Średnia Arytmetyczna;VI.1;160;Sukiennice
+Toto Lotek;VI.1;207;Baba
+Droga Panfila Wprost;VI+/1;248;Zipserowa Czuba
+Kamień Nie Spadnie;VI+/1;302;Skała z Kulą
+Trawers Biedermana;VI+/1;162;Sukiennice
+Trzy Okapy;VI+/1;162;Sukiennice
+Bajkowa Wycieczka;VI+;246;Tępa
+Biały Kieł;VI+;263;Husyckie Skały
+Brytanowe Berety;VI+;314;Zamkowe Skały
+Filarek za Blokiem;VI+;252;Zipserowa Czuba
+Hajda Wuju;VI+;152;Sukiennice
+Helikopter w Ogniu;VI+;177;Solarium
+Kancik na Leszcza;VI+;174;Loża
+Kant Płyty Nowaczyka;VI+;205;Sokolik Duży
+Kant Wuja;VI+;152;Sukiennice
+Kino Moralnego...;VI+;321;Krzyżna Skała
+Klisiówka;VI+;265;Trzy Korony
+Kłapouchy;VI+;254;Płetwa
+Krótka Ryska;VI+;262;Husyckie Skały
+Kryształowa Pułapka;VI+;316;Zamkowe Skały
+Książę Sukiennic;VI+;133;Krzywa Turnia
+Kto się Boi Ten Nie Stoi;VI+;304;Krzyżna Strażnica
+Kurtykówka;VI+;125;Krzywa Turnia
+Michał Ledwo Dychał;VI+;173;Michały
+Mocna Szóstka;VI+;188;Jastrzębiec
+Mortal Kombat;VI+;306;Bukowe Skały
+Nitka Płytą;VI+;161;Sukiennice
+Nitówka Wprost;VI+;200;Sokolik Duży
+Ogon Żubra;VI+;121;Krzywa Turnia
+Pakerówka;VI+;254;Płetwa
+Parszywa Rynna;VI+;153;Sukiennice
+Prawe Prostowanie;VI+;169;Chatka
+Prostowanie Robót;VI+;162;Sukiennice
+Risk of Dramatic Falls;VI+;121;Krzywa Turnia
+Rysa Kowalewskiego;VI+;206;Baba
+Rysa Zegarowa;VI+;161;Sukiennice
+Sprawa Dantona;VI+;182;Gilotyna
+Superdozentissima;VI+;248;Zipserowa Czuba
+Szare Zacięcie Wprost;VI+;157;Sukiennice
+Środek Chatki Wprost;VI+;167;Chatka
+Trudne Początki;VI+;167;Chatka
+Wariant Małolata;VI+;200;Sokolik Duży
+Wrześniowe Popołudnie;VI+;187;Jastrzębiec
+Bananiara;VI;306;Bukowe Skały
+Chatka Puchatka;VI;169;Chatka
+Dozentissima;VI;248;Zipserowa Czuba
+Droga Osady;VI;188;Jastrzębiec
+Dziurki;VI;171;Stodoła
+Efekt Uboczny;VI;273;Jastrzębia Turnia
+Filarek Sokolca;VI;310;Sokolec
+Franken Kanten;VI;311;Sokolec
+Gładkie Zacięcie;VI;157;Sukiennice
+Hiperdozentissima;VI;248;Zipserowa Czuba
+Kubuś Puchatek;VI;254;Płetwa
+Kurtykówka;VI;207;Baba
+Lewe Prostowanie;VI;169;Chatka
+Małolatówka Light;VI;125;Krzywa Turnia
+Nitka;VI;161;Sukiennice
+Nitówka;VI;200;Sokolik Duży
+Płyta Kurczaba;VI;271;Jastrzębia Turnia
+Poezja;VI;265;Trzy Korony
+Przełyk;VI;159;Sukiennice
+Rajbung;VI;302;Skała z Kulą
+Rampa Noego;VI;205;Sokolik Duży
+Rozpoczęcie Sezonu;VI;316;Zamkowe Skały
+Szklana Pułapka;VI;314;Zamkowe Skały
+Ścianka Nowaczyka;VI;173;Michały
+Środek Chatki;VI;167;Chatka
+Windą na Szafot;VI;182;Gilotyna
+Zemsta Kłapouchego;VI;169;Chatka
+Zimowy Okap;VI;308;Bukowe Skały
+Zygzak Lwowa;VI;169;Chatka
+Arka Noego;VI-;205;Sokolik Duży
+Obejście Afery;VI-;205;Sokolik Duży
+Rój Hektora;VI-;160;Sukiennice
+Smak Żubra;VI-;121;Krzywa Turnia
+Szare Zacięcie;VI-;157;Sukiennice
+Zachodni Filarek;VI-;177;Solarium
+Biały Filarek;V+;263;Husyckie Skały
+Chwila Strachu;V+;316;Zamkowe Skały
+Direta WKW;V+;252;Zipserowa Czuba
+Diretka WKW;V+;252;Zipserowa Czuba
+Direttissima;V+;248;Zipserowa Czuba
+Easy Max;V+;300;Szara Turnia
+Filarek Stodoły P. War.;V+;171;Stodoła
+Filarek Zabłotnego;V+;306;Bukowe Skały
+Grzbiet Żubra;V+;121;Krzywa Turnia
+Kancik Jastrzębiej;V+;271;Jastrzębia Turnia
+Kant Brzętysława;V+;238;Ptak
+Kant Dupy;V+;193;Okienna
+Kocie Ruchy z Kantem;V+;316;Zamkowe Skały
+Łatwe Ladacznice;V+;252;Zipserowa Czuba
+Muppet Show;V+;280;Jastrzębia Turnia
+Pijani Glazurnicy;V+;306;Bukowe Skały
+Powrót Prosiaczka;V+;169;Chatka
+Rodeo;V+;171;Stodoła
+Ryska Tygryska;V+;161;Sukiennice
+Super Kancik;V+;167;Chatka
+Średnia Ważona;V+;160;Sukiennice
+Środa Dzień Loda;V+;306;Bukowe Skały
+Trawersik;V+;171;Stodoła
+Tylko Głowa Mnie Blokuje;V+;306;Bukowe Skały
+Z Kamyczka... Wprost;V+;173;Michały
+Zajęcze Serce;V+;314;Zamkowe Skały
+Emu;V;248;Zipserowa Czuba
+Filarek Stodoły;V;171;Stodoła
+Globus;V;316;Zamkowe Skały
+I love Rock'n Roll;V;306;Bukowe Skały
+Ku Chwale Kursantów;V;252;Zipserowa Czuba
+Prawy Komin;V;149;Sukiennice
+Słoneczny Kancik;V;177;Solarium
+Trzech Muszkieterów;V;252;Zipserowa Czuba
+Kancik Chatki;V-;167;Chatka
+Walka z Drzewem;V-;310;Sokolec
+Z Kamyczka na Kamyczek;V-;173;Michały
+Bukowe Zacięcie;IV+;306;Bukowe Skały
+Dozentówka;IV+;252;Zipserowa Czuba
+Gardening;IV+;252;Zipserowa Czuba
+Kancik Chatki Light;IV+;167;Chatka
+Kominek za Blokiem;IV+;252;Zipserowa Czuba
+Nieznane Zacięcie;IV+;177;Solarium
+Zielona Płyta;IV+;193;Okienna
+Drugi Filarek;IV;265;Trzy Korony
+Młody Murarz;IV;173;Michały
+Opróżnianie Jabola;IV;306;Bukowe Skały
+Schodki do Nieba;IV;173;Michały
+Wiara Czyni Cuda;IV;177;Solarium
+Zielony Filarek;IV;263;Husyckie Skały
