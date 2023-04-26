@@ -112,14 +112,14 @@ select {
   overflow-y: hidden;
   margin: auto;
   grid-auto-columns: 1fr;
-  grid-template-columns: 0.2fr 2fr 2fr 0.2fr;
+  grid-template-columns: 2fr 2fr;
   grid-template-rows: 1em 1fr 1fr 1em;
   gap: 5px 10px;
   grid-template-areas:
-    "header header header header"
-    ". map map ."
-    ". left right ."
-    "footer footer footer footer";
+    "header headerr"
+    "map map"
+    "left right"
+    "footer footer";
   text-align: center;
 }
 
