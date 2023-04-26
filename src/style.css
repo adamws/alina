@@ -47,14 +47,10 @@ a:hover {
   color: var(--accent-color);
 }
 
-body {
-  min-height: 100vh;
-  max-height: 100vh;
-  min-width: 320px;
-  max-width: 1280px;
-  margin: auto;
-  overflow: hidden;
-
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
   background-color: var(--backgroud-color-primary);
 }
 
@@ -108,8 +104,13 @@ select {
 
 #app {
   display: grid;
-  min-height: 100vh;
-  max-height: 100vh;
+  height: 100%;
+  min-width: 320px;
+  max-width: 1280px;
+  min-height: 100%;
+  box-sizing: border-box;
+  overflow-y: hidden;
+  margin: auto;
   grid-auto-columns: 1fr;
   grid-template-columns: 0.2fr 2fr 2fr 0.2fr;
   grid-template-rows: 1em 1fr 1fr 1em;
