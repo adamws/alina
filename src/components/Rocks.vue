@@ -38,7 +38,11 @@ function selectRegion(event) {
 }
 .region-select {
   min-width: 90%;
-  background-image: linear-gradient(45deg, transparent 50%, var(--main-theme-color) 50%),
+  background-image: linear-gradient(
+      45deg,
+      transparent 50%,
+      var(--main-theme-color) 50%
+    ),
     linear-gradient(135deg, var(--main-theme-color) 50%, transparent 50%);
   background-position: calc(50% - 4px) calc(1em + 12px),
     calc(50% + 4px) calc(1em + 12px);

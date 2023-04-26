@@ -1,5 +1,6 @@
 import { computed, ref } from "vue";
 import { defineStore } from "pinia";
+import { grades, isInGradeRange } from "../utils/grades.js";
 import L from "leaflet";
 import rocksList from "./rocks.json";
 
@@ -30,7 +31,13 @@ export const useRocksStore = defineStore("rocks", () => {
   const rocks = computed(() => {
     return rocksList
       .filter(isRockInRegion)
-      .filter((rock) => rock.routes !== undefined);
+      .filter(
+        (rock) =>
+          rock.routes !== undefined &&
+          rock.routes.some((route) =>
+            isInGradeRange(route.difficulty, selectedGrade.value)
+          )
+      );
   });
 
   function isRockInRegion(item) {
@@ -40,6 +47,7 @@ export const useRocksStore = defineStore("rocks", () => {
   }
 
   const selectedRocks = ref(new Set());
+  const selectedGrade = ref([0, grades.length - 1]);
 
   const routes = computed(() => {
     return rocks.value
@@ -48,7 +56,8 @@ export const useRocksStore = defineStore("rocks", () => {
       )
       .flatMap(({ id, routes = [] }) =>
         routes.map((value) => Object.assign({ parentId: id }, value))
-      );
+      )
+      .filter((route) => isInGradeRange(route.difficulty, selectedGrade.value));
   });
 
   return {
@@ -57,6 +66,7 @@ export const useRocksStore = defineStore("rocks", () => {
     selectedMapRegionBounds,
     rocks,
     selectedRocks,
+    selectedGrade,
     routes,
   };
 });

@@ -1,7 +1,7 @@
 <script setup>
-import { computed, reactive, ref, watch } from "vue";
+import { computed, ref, watch } from "vue";
 import { useRocksStore } from "../stores/rocks";
-import { grades, isInGradeRange } from "../utils/grades.js";
+import { grades } from "../utils/grades.js";
 import GradeSlider from "./GradeSlider.vue";
 import ButtonList from "./ButtonList.vue";
 
@@ -9,21 +9,16 @@ const emit = defineEmits(["routeSelect"]);
 
 const rockStore = useRocksStore();
 
-const state = reactive({
-  grade: [0, grades.length - 1],
-});
 const buttonListRef = ref(null);
 
 const routes = computed(() => {
-  return rockStore.routes
-    .filter((item) => isInGradeRange(item.difficulty, state.grade))
-    .sort(
-      (a, b) => grades.indexOf(b.difficulty) - grades.indexOf(a.difficulty)
-    );
+  return rockStore.routes.sort(
+    (a, b) => grades.indexOf(b.difficulty) - grades.indexOf(a.difficulty)
+  );
 });
 
 function gradeChange(value) {
-  state.grade = value;
+  rockStore.selectedGrade = value;
   buttonListRef.value.reset();
 }
 
