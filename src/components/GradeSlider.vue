@@ -19,7 +19,7 @@ function highLimitCallback(event) {
 
 <template>
   <div class="container">
-    <select v-model="state.value[0]" class="grade-select left">
+    <select v-model="state.value[0]" class="grade left">
       <option v-for="(grade, index) in grades" :value="index">
         {{ grade }}
       </option>
@@ -37,7 +37,7 @@ function highLimitCallback(event) {
     <select
       v-model="state.value[1]"
       @change="highLimitCallback($event)"
-      class="grade-select right"
+      class="grade right"
     >
       <option v-for="(grade, index) in grades" :value="index">
         {{ grade }}
@@ -51,20 +51,17 @@ function highLimitCallback(event) {
 <style scoped>
 .container {
   display: grid;
-  grid-template-columns: 60px 6fr 60px;
+  grid-template-columns: 65px 1fr 65px;
   grid-template-areas: "left slider right";
 }
-.left {
+.grade {
+  padding: 0.6em 0 !important;
+}
+.grade.left {
   grid-area: left;
 }
-.right {
+.grade.right {
   grid-area: right;
-}
-.grade {
-  background: #f9f9f9;
-  border-radius: 8px;
-  margin-left: 20px;
-  margin-right: 20px;
 }
 .slider {
   --slider-connect-bg: var(--main-theme-color);
@@ -83,9 +80,6 @@ function highLimitCallback(event) {
   border-bottom: 3px solid var(--main-theme-color);
   border-radius: 3px;
   grid-area: slider;
-}
-.grade-select {
-  min-width: 90%;
 }
 @media (max-width: 440px) {
   .slider {
