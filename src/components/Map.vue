@@ -61,8 +61,38 @@ function setupMap() {
   state.highlightLayer = L.geoJSON().addTo(state.map);
 }
 
+function addHelpButton() {
+  const HelpControl = L.Control.extend({
+    options: {
+      position: "topright",
+    },
+
+    onAdd: function (map) {
+      const container = L.DomUtil.create("div", "leaflet-bar leaflet-control");
+      const a = L.DomUtil.create("a", "leaflet-control-custom", container);
+      const span = L.DomUtil.create("span", "", a);
+
+      span.innerHTML = "?";
+
+      // don't let double clicks and mousedown get to the map
+      L.DomEvent.addListener(a, 'dblclick', L.DomEvent.stop);
+      L.DomEvent.addListener(a, 'mousedown', L.DomEvent.stop);
+      L.DomEvent.addListener(a, 'mouseup', L.DomEvent.stop);
+
+      L.DomEvent.on(a, "click", function () {
+        console.log("button clicked");
+      });
+
+      return container;
+    },
+  });
+
+  state.map.addControl(new HelpControl());
+}
+
 onMounted(() => {
   setupMap();
+  addHelpButton();
 });
 </script>
 

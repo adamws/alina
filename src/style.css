@@ -47,7 +47,8 @@ a:hover {
   color: var(--accent-color);
 }
 
-body, html {
+body,
+html {
   height: 100%;
   width: 100%;
   margin: 0;
@@ -141,4 +142,9 @@ select {
 
 .right {
   grid-area: right;
+}
+
+.leaflet-control-custom {
+  font: bold 18px "Lucida Console", Monaco, monospace;
+  cursor: pointer !important;
 }
