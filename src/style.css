@@ -103,6 +103,7 @@ select {
   padding-left: 0px;
 }
 
+#modal-backdrop,
 #app {
   display: grid;
   height: 100%;

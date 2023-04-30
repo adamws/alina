@@ -50,6 +50,7 @@ function routeSelect(route) {
 
 function helpClose() {
   isHelpVisible.value = false;
+  document.getElementById("help-button").hidden = false;
 }
 
 function updateMap() {
@@ -78,15 +79,19 @@ function addHelpButton() {
       const a = L.DomUtil.create("a", "leaflet-control-custom", container);
       const span = L.DomUtil.create("span", "", a);
 
+      // id will be used to control visibility of element outside this function,
+      // perhaps this can be done better:
+      container.id = "help-button";
       span.innerHTML = "?";
 
       // don't let double clicks and mousedown get to the map
-      L.DomEvent.addListener(a, 'dblclick', L.DomEvent.stop);
-      L.DomEvent.addListener(a, 'mousedown', L.DomEvent.stop);
-      L.DomEvent.addListener(a, 'mouseup', L.DomEvent.stop);
+      L.DomEvent.addListener(a, "dblclick", L.DomEvent.stop);
+      L.DomEvent.addListener(a, "mousedown", L.DomEvent.stop);
+      L.DomEvent.addListener(a, "mouseup", L.DomEvent.stop);
 
       L.DomEvent.on(a, "click", function () {
         isHelpVisible.value = true;
+        container.hidden = true;
       });
 
       return container;
@@ -106,7 +111,7 @@ onMounted(() => {
   <div id="map" class="map"></div>
   <Rocks class="left" @region-change="updateMap" @rock-select="rockSelect" />
   <Routes class="right" @route-select="routeSelect" />
-  <Help v-show="isHelpVisible" @close="helpClose"/>
+  <Help v-show="isHelpVisible" @close="helpClose" />
 </template>
 
 <style scoped></style>
