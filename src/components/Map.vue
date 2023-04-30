@@ -3,10 +3,12 @@ import { reactive, ref, onMounted } from "vue";
 import { useRocksStore } from "../stores/rocks";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
+import Help from "./Help.vue";
 import Rocks from "./Rocks.vue";
 import Routes from "./Routes.vue";
 
 const defultView = ref([50.867, 15.8682]);
+const isHelpVisible = ref(false);
 
 const rockStore = useRocksStore();
 
@@ -46,6 +48,10 @@ function routeSelect(route) {
   }
 }
 
+function helpClose() {
+  isHelpVisible.value = false;
+}
+
 function updateMap() {
   state.map.fitBounds(rockStore.selectedMapRegionBounds);
 }
@@ -80,7 +86,7 @@ function addHelpButton() {
       L.DomEvent.addListener(a, 'mouseup', L.DomEvent.stop);
 
       L.DomEvent.on(a, "click", function () {
-        console.log("button clicked");
+        isHelpVisible.value = true;
       });
 
       return container;
@@ -100,6 +106,7 @@ onMounted(() => {
   <div id="map" class="map"></div>
   <Rocks class="left" @region-change="updateMap" @rock-select="rockSelect" />
   <Routes class="right" @route-select="routeSelect" />
+  <Help v-show="isHelpVisible" @close="helpClose"/>
 </template>
 
 <style scoped></style>
